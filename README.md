@@ -13,7 +13,7 @@ Conservative/right biased:
 1. http://www.foxnews.com/politics.html
 2. http://www.nationalreview.com 
 3. https://www.newsmax.com
-4. https://townhall.com/", ".story__text a", "h1.headline", ".col-xs-8","townhall"},
+4. https://townhall.com
 
 Liberal/left biased
 
@@ -30,7 +30,7 @@ topics: contains the clusters of the news articles based on similarity search
 
 ## Methods
 
-
+Java's Document Library in Jsoup was used to scrape the articles. 
 
 
 
