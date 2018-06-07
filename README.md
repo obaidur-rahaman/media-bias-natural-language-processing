@@ -30,18 +30,16 @@ topics: contains the clusters of the news articles based on similarity search
 
 ## Methods
 
-Java's Document Library in Jsoup was used to scrape the articles. 
-
-
+Jsoup was used to scrape the articles from the websites. Not all the websites had articles on the same news. Therefore it was important to identify and cluster news topics. Jaccard similarity test was applied to perform the clustering of news articles. Two articles from the same website were not compared. This algorithm correctly identified articles of the same news collected from different websites.
 
 ## Acknowledgments
 
-The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
+I thank Praful Krishna and his team at Coseer for giving me this wonderful opportunity to work with them as an intern.
 
 ## Team
-- [Obaidur Rahaman](https://github.com/obaidur-rahaman)
-- [Marco Di Vivo](https://github.com/divivoma)
-- [Benjamin Melloul]()
-- [Ayush Kumar](https://github.com/swifty1)
-- [Robert Jonczy](https://github.com/rjonczy)
+- [Obaidur Rahaman](https://www.linkedin.com/in/dr-obaidur-rahaman-3487879/)
+- [Praful Krishna](https://www.linkedin.com/in/prafulkrishna/)
+- [Mohonish Mullick](https://www.linkedin.com/in/mohonish-mullick-24756a55/)
+- [Kalpesh Balar](https://www.linkedin.com/in/kalpeshbalar/)
+
 
