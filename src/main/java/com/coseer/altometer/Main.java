@@ -28,10 +28,6 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Stream;
 
-/**
- * Dummy Class to create package structure can be deleted later
- * Created by MOHONISH on 09/01/18
- */
 public class Main {
     //Please rename accordingly or delete Class
     public static void main(String... args) throws IOException {
