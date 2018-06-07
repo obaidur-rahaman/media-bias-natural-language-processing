@@ -36,7 +36,6 @@ public class Main {
     //Please rename accordingly or delete Class
     public static void main(String... args) throws IOException {
         //System.out.println("Hello");
-/*
         String[][] urlAndCss = new String[][]{
                 // Some conservative journals
 
@@ -157,7 +156,6 @@ public class Main {
             }
         }
 
-        */
         // Now let's build a predictive model for liberal/conservative classification
 
         File folder = new File("/home/obaidur/IdeaProjects/altometer/topics/1/");
