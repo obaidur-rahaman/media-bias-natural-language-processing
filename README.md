@@ -25,7 +25,9 @@ Liberal/left biased
 ## Repository structure
 
 articles: stores all the news articles
+
 src: contains the source codes
+
 topics: contains the clusters of the news articles based on similarity search
 
 ## Methods
